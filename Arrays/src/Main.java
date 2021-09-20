@@ -30,7 +30,7 @@ public class Main {
         MinMax.Pair minmax = MinMax.getMinMax(array, 0, array.length- 1);
         System.out.printf("\nMinimum element is %d", minmax.min);
         System.out.printf("\nMaximum element is %d", minmax.max);
-
+        // The code works
 
     }
 }
