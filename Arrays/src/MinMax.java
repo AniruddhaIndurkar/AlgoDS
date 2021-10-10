@@ -3,9 +3,6 @@
 The class will take int array values and return the object that consists of two minimum and maximum values.
  */
 
-import java.util.*;
-import java.util.ArrayList;
-import java.lang.Integer;
 public class MinMax {
     //Initiate
     static class Pair{
@@ -76,4 +73,3 @@ public class MinMax {
     }
 
 
-}
